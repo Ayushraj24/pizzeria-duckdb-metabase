@@ -195,6 +195,4 @@ pizzeria-duckdb-metabase/
     04_dashboard_queries.sql
 ```
 
-## Portfolio Resume Line
 
-Built a local analytics warehouse for pizzeria operations using DuckDB, Python, SQL, and Metabase, with normalized operational tables, synthetic data generation, inventory balance logic, profitability views, validation checks, ERD documentation, and dashboard-ready semantic views.
