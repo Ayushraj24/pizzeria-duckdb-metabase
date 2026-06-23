@@ -1,6 +1,6 @@
 # Pizzeria Analytics Warehouse with DuckDB and Metabase
 
-This project rebuilds the pizzeria dashboard idea with a free local stack:
+This project builds the pizzeria dashboard idea with a free local stack:
 
 - DuckDB as the analytical warehouse
 - Python venv for repeatable local builds
